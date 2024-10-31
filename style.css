@@ -29,3 +29,22 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 20px;
     font-weight: 900;
 }
+#main form{
+    margin: 15px 0;
+}
+#main label{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+}
+#main input{
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0;
+    color: black;
+}
