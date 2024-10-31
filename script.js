@@ -21,6 +21,9 @@ button.addEventListener('click', function () {
     }else{
         scor.style.background = 'red'
     }
+});
 
-    
+let from = document.getElementById('from');
+from.addEventListener('click', function (e) {
+    e.preventDefault();
 });
