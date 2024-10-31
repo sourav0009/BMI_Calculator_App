@@ -10,3 +10,22 @@ body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 300;
 }
+h1,h2,h3,h4,h5,h6{
+    font-weight: 600;
+    margin: 0 0 15px;
+}
+
+#main{
+    background-image: linear-gradient(#ff0248,#ff6d31);
+    width: 90%;
+    padding: 35px 25px 25px;
+    margin: 20px auto 0;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #ddd;
+}
+#main h1{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: 900;
+}
